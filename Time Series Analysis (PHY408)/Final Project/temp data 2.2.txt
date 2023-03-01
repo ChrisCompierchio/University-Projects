@@ -1,0 +1,2 @@
+Date,temperatures
+1/1/1981,20.7
